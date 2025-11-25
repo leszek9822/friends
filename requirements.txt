@@ -1,4 +1,4 @@
-istreamlit
+streamlit
 pandas
 pycaret.clustering
 plotly.express
