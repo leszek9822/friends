@@ -1,0 +1,5 @@
+json
+istreamlit
+pandas
+pycaret.clustering
+plotly.express
