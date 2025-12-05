@@ -1,6 +1,4 @@
-python=3.11
 plotly
 pandas
 streamlit
-jupyterlab
 pycaret==3.3.2
