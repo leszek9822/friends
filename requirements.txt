@@ -1,4 +1,4 @@
-plotly
-pandas
-streamlit
+plotly==6.0.1
+pandas==2.3.3
+streamlit==1.51.0
 pycaret==3.3.2
